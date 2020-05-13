@@ -1,6 +1,0 @@
-cmd
-cd folder copy
-https://github.com/MarLar1992/python-learning.git -->this is gitlab path link
-
-
-Testing git lab
